@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 10vmin);
+  color: white;
+}
+
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(100, 97, 97);
+}  
+  
+li{
+  float: left;
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 30px 26px;
+  background-color: rgb(100, 97, 97);
+}
+
+
+
